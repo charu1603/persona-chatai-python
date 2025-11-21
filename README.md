@@ -2,6 +2,9 @@
 
 A modern, real-time chat application that allows users to interact with distinct AI personas. Built with **React**, **FastAPI**, and **OpenAI GPT-4**, featuring a premium glassmorphism UI and Firebase integration for saving favorites and links.
 
+<img width="1920" height="927" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/1c9d6616-d327-4999-bb67-7bf26a97b9db" />
+
+
 ## 🚀 Features
 
 - **Multiple Personas**: Chat with specialized AI personalities:
